@@ -1,0 +1,36 @@
+body
+{ background-color: powderblue;;
+}
+hr {
+border-style:none;
+border-top-style:dotted;
+background-color: white;
+border-color: powderblue;
+
+height: 0px;
+width: 80%;
+
+}
+
+#circular {
+border-radius: 100%
+
+}
+
+
+
+
+h1 {
+color: blue;
+
+
+}
+
+h4 {
+color: blue;
+
+}
+h7 {
+color: blue;
+
+}
